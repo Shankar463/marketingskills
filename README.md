@@ -186,6 +186,9 @@ Once installed, just ask your agent to help with marketing tasks:
 
 "Create a 5-email welcome sequence"
 → Uses email-sequence skill
+
+"I have a ₹5K budget for my online store, help me run ads with ROAS > 2"
+→ Uses ecommerce-ads-strategy skill
 ```
 
 You can also invoke skills directly:
@@ -224,6 +227,7 @@ You can also invoke skills directly:
 ### Paid & Distribution
 - `paid-ads` - Google, Meta, LinkedIn ad campaigns
 - `ad-creative` - Bulk ad creative generation and iteration
+- `ecommerce-ads-strategy` - Low-budget e-commerce ad strategy and ROAS optimization
 - `social-content` - Social media scheduling and strategy
 
 ### Measurement & Testing
