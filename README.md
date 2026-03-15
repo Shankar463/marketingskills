@@ -63,6 +63,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [content-strategy](skills/content-strategy/) | When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also... |
 | [copy-editing](skills/copy-editing/) | When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this... |
 | [copywriting](skills/copywriting/) | When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages,... |
+| [ecommerce-ads-strategy](skills/ecommerce-ads-strategy/) | When the user wants a marketing or advertising strategy for an e-commerce store, online shop, or D2C brand — especially... |
 | [email-sequence](skills/email-sequence/) | When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email... |
 | [form-cro](skills/form-cro/) | When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms,... |
 | [free-tool-strategy](skills/free-tool-strategy/) | When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or... |
@@ -185,6 +186,9 @@ Once installed, just ask your agent to help with marketing tasks:
 
 "Create a 5-email welcome sequence"
 → Uses email-sequence skill
+
+"I have a ₹5K budget for my online store, help me run ads with ROAS > 2"
+→ Uses ecommerce-ads-strategy skill
 ```
 
 You can also invoke skills directly:
@@ -223,6 +227,7 @@ You can also invoke skills directly:
 ### Paid & Distribution
 - `paid-ads` - Google, Meta, LinkedIn ad campaigns
 - `ad-creative` - Bulk ad creative generation and iteration
+- `ecommerce-ads-strategy` - Low-budget e-commerce ad strategy and ROAS optimization
 - `social-content` - Social media scheduling and strategy
 
 ### Measurement & Testing

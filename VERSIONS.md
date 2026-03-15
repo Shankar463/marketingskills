@@ -14,6 +14,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | content-strategy | 1.1.0 | 2026-02-27 |
 | copy-editing | 1.1.0 | 2026-02-27 |
 | copywriting | 1.1.0 | 2026-02-27 |
+| ecommerce-ads-strategy | 1.0.0 | 2026-03-15 |
 | email-sequence | 1.1.0 | 2026-02-27 |
 | form-cro | 1.1.0 | 2026-02-27 |
 | free-tool-strategy | 1.1.0 | 2026-02-27 |
@@ -38,6 +39,9 @@ Current versions of all skills. Agents can compare against local versions to che
 | social-content | 1.1.0 | 2026-02-27 |
 
 ## Recent Changes
+
+### 2026-03-15
+- Added `ecommerce-ads-strategy` skill for low-budget e-commerce ad strategy, ROAS optimization, product selection for ads, and platform recommendations for small online stores
 
 ### 2026-02-27
 - Migrated context path from `.claude/` to `.agents/` for agent-agnostic compatibility
