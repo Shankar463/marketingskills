@@ -10,6 +10,12 @@ New to the terminal and coding agents? Check out the companion guide [Coding for
 
 Run into a problem or have a question? [Open an issue](https://github.com/coreyhaines31/marketingskills/issues) — we're happy to help.
 
+## Downloads
+
+| Guide | Download |
+|-------|----------|
+| Product Design Audit — E-Commerce & Merchandise Design Guide (16 pages) | [**Download PDF**](https://raw.githubusercontent.com/Shankar463/marketingskills/copilot/analyze-website-design-competitors/downloads/product-design-audit.pdf) |
+
 ## What are Skills?
 
 Skills are markdown files that give AI agents specialized knowledge and workflows for specific tasks. When you add these to your project, your agent can recognize when you're working on a marketing task and apply the right frameworks and best practices.
