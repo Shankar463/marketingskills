@@ -14,7 +14,7 @@ Run into a problem or have a question? [Open an issue](https://github.com/coreyh
 
 | Guide | Download |
 |-------|----------|
-| Product Design Audit — E-Commerce & Merchandise Design Guide (16 pages) | [**Download PDF**](https://raw.githubusercontent.com/Shankar463/marketingskills/copilot/analyze-website-design-competitors/downloads/product-design-audit.pdf) |
+| Product Design Audit — E-Commerce & Merchandise Design Guide (16 pages) | [**Download PDF**](https://raw.githubusercontent.com/Shankar463/marketingskills/main/downloads/product-design-audit.pdf) |
 
 ## What are Skills?
 
