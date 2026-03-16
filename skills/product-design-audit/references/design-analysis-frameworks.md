@@ -141,7 +141,7 @@ Use this template for each competitor:
 ### Budget Readiness
 
 - [ ] Test budget: minimum $20-50/day for 5-7 days per design
-- [ ] Enough budget to test at least 3-5 designs
+- [ ] Enough budget to test at least 3-5 designs (total test budget: $300-1,750)
 - [ ] Prepared to wait 3-5 days before making decisions
 - [ ] Break-even ROAS calculated
 
