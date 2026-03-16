@@ -75,7 +75,6 @@ See each skill's **Related Skills** section for the full dependency map.
 | [paywall-upgrade-cro](skills/paywall-upgrade-cro/) | When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use... |
 | [popup-cro](skills/popup-cro/) | When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also... |
 | [pricing-strategy](skills/pricing-strategy/) | When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions... |
-| [product-design-audit](skills/product-design-audit/) | When the user wants to analyze, evaluate, or improve product designs for e-commerce, merchandise, or print-on-demand... |
 | [product-marketing-context](skills/product-marketing-context/) | When the user wants to create or update their product marketing context document. Also use when the user mentions... |
 | [programmatic-seo](skills/programmatic-seo/) | When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions... |
 | [referral-program](skills/referral-program/) | When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy.... |
@@ -224,7 +223,6 @@ You can also invoke skills directly:
 ### Paid & Distribution
 - `paid-ads` - Google, Meta, LinkedIn ad campaigns
 - `ad-creative` - Bulk ad creative generation and iteration
-- `product-design-audit` - Product design evaluation, competitor analysis, ad-readiness
 - `social-content` - Social media scheduling and strategy
 
 ### Measurement & Testing
